@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class TictacToe {
     static char[][] board = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
     static boolean xTurn = true;
     static Scanner scanner = new Scanner(System.in);
